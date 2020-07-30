@@ -23,7 +23,7 @@ public class TestGmaillogin
 		
 		g1.Uname("amaze123");
 		g1.Click();
-		g1.Pwd("12345");
+		g1.Pwd("abcd123");
 		g1.Click();
 	}
 }
